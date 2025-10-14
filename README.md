@@ -17,8 +17,8 @@ Building the Data Warehouse (Data Engineering)
 ## Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
-** Customer Behavior
-** Product Performance
+* Customer Behavior
+ Product Performance
 
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
